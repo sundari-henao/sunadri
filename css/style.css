@@ -1,0 +1,54 @@
+.carousel-item img{
+   height: 600px;
+   width: 70%;
+   margin: auto;
+   margin-bottom: 65px;
+}
+
+span{
+   background: rgba(141, 133, 133);
+}
+.carousel-control-prev{
+   color: darkolivegreen;
+}
+.card-img-top{
+   width: 100%;
+ margin: auto;
+ margin-bottom: 70px;
+}
+.col{
+   width: 15%;
+ margin-left: auto;
+ margin-right: auto;
+}
+.bg-dark{
+   width: 100%;
+}
+.mt-5{
+   border: 50px;
+   border-radius: 20px;
+}
+
+.list-inline-item{
+  font-size: 23px;
+  color: #fff;
+}
+.cont{
+   display: flex;
+   padding-left: 60px;
+   padding-right: 60px;
+}
+.cos{
+   width: 80%;
+  margin: auto;
+  text-align: center;
+}
+.p{
+   font-size: 500;
+   justify-content: space-around;
+   padding-right: 18px;
+}
+.titulo{
+   text-align: center;
+   margin-bottom: 90px;
+}
